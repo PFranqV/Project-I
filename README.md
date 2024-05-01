@@ -84,7 +84,7 @@ It also incorporates some VMD plots for a set of precalculated results.
 
 ## Parallel Code
 It contains the same functionalities as in serie, but the code is adapted for parallelization. 
-In addition, it also calculates 
+In addition, it also calculates paralelization scalability.
 ### Usage
 To run the parallel program, sending jobs to the cluster, type:  
 
